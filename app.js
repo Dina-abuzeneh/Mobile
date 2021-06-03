@@ -10,6 +10,7 @@ else{document.write('<h1>'+"welcome"+'</h1>')}
 
 alert('welcom')
 prompt("what is your name?")
+<<<<<<< HEAD
 
 
 var userInput = parseInt(prompt("enter num"))
@@ -22,3 +23,5 @@ else
 {
   alert(' please enter num')
 }
+=======
+>>>>>>> 902d3aa3570258e44bb8ccb5f955a144dc9b4888
