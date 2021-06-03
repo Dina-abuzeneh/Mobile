@@ -14,8 +14,8 @@ prompt("what is your name?")
 
 
 var userInput = parseInt(prompt("enter number"))
-console.log(typeof(userInput))
-if( userInput=='number'){
+console.log((userInput))
+if(isNaN(userInput)){
 var x =0;
 while(x <userInput){document.write('<img src="https://i.ebayimg.com/images/g/WGQAAOSwDh1e-vXu/s-l300.png"/img>')
 x++}}
