@@ -10,18 +10,11 @@ else{document.write('<h1>'+"welcome"+'</h1>')}
 
 alert('welcom')
 prompt("what is your name?")
-<<<<<<< HEAD
 
 
-var userInput = parseInt(prompt("enter num"))
-if(userInput=='number'){
-var x =0;
-console.log(userInput)
-while(x <userInput){document.write('<img src="https://i.ebayimg.com/images/g/WGQAAOSwDh1e-vXu/s-l300.png"/img>')
-x++}}
-else
-{
-  alert(' please enter num')
-}
-=======
->>>>>>> 902d3aa3570258e44bb8ccb5f955a144dc9b4888
+
+
+   while(userInput >5)
+   {userInput=prompt("enter numberless than 5")}
+  for (var x= 0 ; x< userInput; x++)
+  {document.write('<img src="https://i.ebayimg.com/images/g/WGQAAOSwDh1e-vXu/s-l300.png"/img>')}
