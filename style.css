@@ -4,13 +4,21 @@
   box-sizing: border-box;
 }
 
+
+
 div{
-  background: gold
-  currentColor:black
+ background-color: powderblue;
+  color: red;
 }
 
-  ul{
+
+
+
+ ul{
+   background-color: gainsboro;
+  color: rgb(94, 255, 0);
+
     font-size: 20px;
     padding-left: 10px;
     padding-top: 20px;
-  }
+ }
