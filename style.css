@@ -8,7 +8,9 @@ div{
   background: gold
   currentColor:black
 }
- ul{
-   background: blue
-   color:red
- }
+
+  ul{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+  }

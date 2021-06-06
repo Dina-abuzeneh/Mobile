@@ -14,6 +14,7 @@ prompt("what is your name?")
 
 
 
+
 function welcoming(){
  var userInput=prompt("enter num")
    while(userInput >5)
