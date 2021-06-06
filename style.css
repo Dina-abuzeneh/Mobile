@@ -1,14 +1,14 @@
 *{
   margin: 0;
-  pading: 0;
+  padding: 0;
   box-sizing: border-box;
 }
+
 div{
-  background-color: blueviolet
-  color:black
+  background: gold
+  currentColor:black
 }
-  ul{
-    font-size: 20px;
-    padding-left: 10px;
-    padding-top: 20px;
-  }
+ ul{
+   background: blue
+   color:red
+ }
