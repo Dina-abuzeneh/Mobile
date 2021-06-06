@@ -8,9 +8,22 @@ div{
   background: gold
   currentColor:black
 }
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+ ul{
+   background: blue
+   color:red
+ }
+=======
+>>>>>>> 9201a055cd00be240454b7be2c199031a3f0c657
   ul{
     font-size: 20px;
     padding-left: 10px;
     padding-top: 20px;
   }
+<<<<<<< HEAD
+=======
+>>>>>>> f2c1d4a7a4072a14616e4f1d3e5bac34f1e1eb10
+>>>>>>> 9201a055cd00be240454b7be2c199031a3f0c657
