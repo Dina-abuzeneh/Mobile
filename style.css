@@ -8,7 +8,15 @@ div{
   background: gold
   currentColor:black
 }
+<<<<<<< HEAD
  ul{
    background: blue
    color:red
  }
+=======
+  ul{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+  }
+>>>>>>> f2c1d4a7a4072a14616e4f1d3e5bac34f1e1eb10
